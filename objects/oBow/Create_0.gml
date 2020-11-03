@@ -1,0 +1,2 @@
+owner = noone
+projectile = noone

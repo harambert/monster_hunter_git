@@ -1,0 +1,3 @@
+if isOpen {
+	transition(targetRoom)
+}

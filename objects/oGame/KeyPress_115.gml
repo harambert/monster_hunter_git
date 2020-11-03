@@ -1,0 +1,3 @@
+/// @description showDebug
+
+showDebug = !showDebug
